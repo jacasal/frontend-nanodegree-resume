@@ -1,1 +1,1 @@
-$("#mail").append([yourname]);
+$("#mail").append("Jose Andres");
