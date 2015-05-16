@@ -1,1 +1,1 @@
-$("#mail").append("Jose Andres");
+$("#main").append("Jose Andres");
